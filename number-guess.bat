@@ -1,6 +1,6 @@
 @echo off
 rem number-guess.bat - A number guess game in Batch script.
-rem Copyright (c) 2020 Michael Chen.
+rem Copyright (c) 2020 Michelle Chen.
 rem Licensed under MIT.
 
 

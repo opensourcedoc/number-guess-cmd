@@ -17,4 +17,4 @@ Input a number between 1 and 100:
 
 ## Copyright
 
-Copyright (c) 2020 Michael Chen. Licensed under MIT.
+Copyright (c) 2020 Michelle Chen. Licensed under MIT.
